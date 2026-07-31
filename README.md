@@ -5,6 +5,8 @@
 ![Unix](https://img.shields.io/badge/environment-Unix-lightgrey.svg)
 ![Make](https://img.shields.io/badge/build-Make-green.svg)
 
+*This project has been created as part of the 42 curriculum by oonal, agurses.*
+
 ## 📌 Overview
 Minishell is a custom, lightweight Unix shell built from scratch in C. The primary objective of this project was to dive deep into the core mechanics of an operating system by recreating the functionality of the bash shell. 
 
